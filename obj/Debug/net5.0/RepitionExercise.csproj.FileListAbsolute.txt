@@ -1,0 +1,15 @@
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/RepitionExercise.deps.json
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/RepitionExercise.runtimeconfig.json
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/RepitionExercise.runtimeconfig.dev.json
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/RepitionExercise.dll
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/ref/RepitionExercise.dll
+/Users/kitjones/Documents/GitHub/RepitionExercise/bin/Debug/net5.0/RepitionExercise.pdb
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.csprojAssemblyReference.cache
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.AssemblyInfoInputs.cache
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.AssemblyInfo.cs
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.csproj.CoreCompileInputs.cache
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.dll
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/ref/RepitionExercise.dll
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.pdb
+/Users/kitjones/Documents/GitHub/RepitionExercise/obj/Debug/net5.0/RepitionExercise.genruntimeconfig.cache
